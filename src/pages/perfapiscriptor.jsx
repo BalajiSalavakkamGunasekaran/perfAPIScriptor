@@ -587,7 +587,7 @@ label="Select Performance Tool"
 onChange={(e) => setTool(e.target.value)}
 >
 <MenuItem value="jmeter">Apache JMeter</MenuItem>
-<MenuItem value="loadrunner">Micro Focus LoadRunner</MenuItem>
+<MenuItem value="loadrunner">LoadRunner</MenuItem>
 <MenuItem value="gatling">Gatling</MenuItem>
 <MenuItem value="k6">k6</MenuItem>
 </Select>
