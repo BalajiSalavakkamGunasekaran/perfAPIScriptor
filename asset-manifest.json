@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/perfAPIScriptor/static/css/main.e6c13ad2.css",
-    "main.js": "/perfAPIScriptor/static/js/main.247078ad.js",
+    "main.js": "/perfAPIScriptor/static/js/main.fb88cbb9.js",
     "static/js/453.0ea837da.chunk.js": "/perfAPIScriptor/static/js/453.0ea837da.chunk.js",
     "index.html": "/perfAPIScriptor/index.html",
     "main.e6c13ad2.css.map": "/perfAPIScriptor/static/css/main.e6c13ad2.css.map",
-    "main.247078ad.js.map": "/perfAPIScriptor/static/js/main.247078ad.js.map",
+    "main.fb88cbb9.js.map": "/perfAPIScriptor/static/js/main.fb88cbb9.js.map",
     "453.0ea837da.chunk.js.map": "/perfAPIScriptor/static/js/453.0ea837da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.247078ad.js"
+    "static/js/main.fb88cbb9.js"
   ]
 }
